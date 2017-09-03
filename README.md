@@ -16,7 +16,7 @@
 
 ## Technical Requirements (In Progress):
 Object for each subgrid 
-Methods for each criterion for success
+Methods for each criterion for success ( Sudoku rules)
 
 ## Initial Problems:
 For each sub-grid how many empty positions are we going to have.
@@ -30,4 +30,7 @@ http://mrbool.com/how-to-implement-java-code-for-making-a-mind-game-sudoku/27013
 http://www.vogella.com/tutorials/EclipseGit/article.html
 https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2FgettingStarted%2Fqs-3.htm
 http://fileadmin.cs.lth.se/cs/Education/EDA040/common/java21.pdf
+https://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X
+https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
+http://garethrees.org/2007/06/10/zendoku-generation/#section-4.3
 
