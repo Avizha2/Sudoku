@@ -57,9 +57,11 @@ public class SudokuBoard {
 	}*/
 }
 
-class gridSpace {
+class Cell {
 	char num;
 	boolean hidden;
 	int colNum, rowNum, subGrid;
+	
+	
 }
 
