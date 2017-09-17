@@ -14,18 +14,12 @@ public class sudoku {
 	static boolean debugMode = false;
     
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		SudokuBoard s = new SudokuBoard();
+		SudokuBoard solved = s;
+		s.draw();
+		s.emptyCells();
+		GUI game = new GUI(s);
+		
 	}
 } 
 
-class environment {
-	//generate environment
-	//includes background, buttons
-	//load GUI frames
-}
-
-
-class play{
-	//
-}
