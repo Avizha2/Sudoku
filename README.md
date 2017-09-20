@@ -1,4 +1,4 @@
-### Sudoku
+# Sudoku
 
 ## Sudoku implementation in Java
 
