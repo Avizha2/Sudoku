@@ -19,7 +19,8 @@ public class sudoku {
 		s.draw();
 		s.emptyCells();
 		GUI game = new GUI(s);
-		
+		System.out.println("To play this game please enter the correct number into each sudoku cell and press enter");
+		System.out.println("Red is wrong | Green is correct");
 	}
 } 
 
